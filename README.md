@@ -1,7 +1,7 @@
 # telehaptic
 
 Listens for incoming Telegram messages from unmuted chats and triggers a haptic feedback device via HTTP.
-
+use plugin https://haptics.jmw.nz/
 ## Setup
 
 Create a `.env` file:
